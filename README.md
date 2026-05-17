@@ -27,7 +27,7 @@ This repository is useful for:
 
 ## About the author
 
-**Benard Mukiri Maina** is an AI content strategist and writing specialist based in Nairobi, Kenya. He has over three years of freelance writing experience with a focus on AI content, prompt engineering, and content strategy. This repository reflects his working approach to prompt design — practical, iterative, and grounded in real use cases.
+**Benard Mukiri Maina** is an AI content strategist and writing specialist based in Portland, Oregon. He has over three years of freelance writing experience with a focus on AI content, prompt engineering, and content strategy. This repository reflects his working approach to prompt design — practical, iterative, and grounded in real use cases.
 
 - **Email:** [mukirib19@gmail.com](mailto:mukirib19@gmail.com)
 - **LinkedIn:** [linkedin.com/in/benard-maina-80391240b](https://www.linkedin.com/in/benard-maina-80391240b/)
